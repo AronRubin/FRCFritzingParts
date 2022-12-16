@@ -8,3 +8,5 @@ Additional Parts I authored for Fritzing
 ![REV Power Distribution Hub](REV_PDH_fritzing.png)
 
 ![REV Radio Power Module](REV_RPM_fritzing.png)
+
+![Robot Signal Light](FRC_RSL_fritzing.png)
